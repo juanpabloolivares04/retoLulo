@@ -5,14 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c6eeae9-b3fb-45f7-9a75-24690491ae3d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/deleteCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/getAllClientes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/getOnlyCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/postCliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lulobank/runners/runnerpeticion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/lulobank/stepdefinitions/definitionPeticiones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/peticiones.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/lulobank/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -30,13 +43,41 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\juanp\IdeaProjects\retoLulo\src\test\java" />
     </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="runnerpeticion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="retoLulo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.lulobank.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.lulobank.runners" />
+      <option name="MAIN_CLASS_NAME" value="org.lulobank.runners.runnerpeticion" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.runnerpeticion" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -46,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653968478958</updated>
-      <workItem from="1653968480402" duration="3945000" />
+      <workItem from="1653968480402" duration="8484000" />
     </task>
     <servers />
   </component>
