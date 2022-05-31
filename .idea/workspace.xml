@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c6eeae9-b3fb-45f7-9a75-24690491ae3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/deleteCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/getAllClientes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/getOnlyCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/postCliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lulobank/runners/runnerpeticion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/lulobank/stepdefinitions/definitionPeticiones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/peticiones.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/questions/resultados.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/getAllClientes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/lulobank/tasks/getAllClientes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/lulobank/runners/runnerpeticion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/lulobank/runners/runnerpeticion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/lulobank/stepdefinitions/definitionPeticiones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/lulobank/stepdefinitions/definitionPeticiones.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +40,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+    "last_opened_file_path": "C:/Users/juanp/IdeaProjects/RETO 1 POM",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "6a3dd9a284d23449ad331798c8896d67"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,6 +53,7 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn clean" />
+      <command value="mvn serenity:aggregate" />
     </option>
   </component>
   <component name="RunManager">
@@ -87,7 +86,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653968478958</updated>
-      <workItem from="1653968480402" duration="8484000" />
+      <workItem from="1653968480402" duration="10243000" />
+      <workItem from="1653983127059" duration="8018000" />
     </task>
     <servers />
   </component>

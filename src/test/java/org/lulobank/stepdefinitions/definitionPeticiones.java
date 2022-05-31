@@ -6,6 +6,8 @@ import io.cucumber.java.es.Entonces;
 
 public class definitionPeticiones {
 
+
+
     @Dado("que Juan quiere ver los clientes registrados")
     public void que_juan_quiere_ver_los_clientes_registrados() {
 
